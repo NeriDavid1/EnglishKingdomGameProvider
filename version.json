@@ -1,5 +1,5 @@
 {
   "version": "1.1",
-  "download_url": "https://github.com/NeriDavid1/EnglishKingdomGameProvider/releases/download/1.0/DemoForrest.zip",
+  "download_url": "https://github.com/NeriDavid1/EnglishKingdomGameProvider/releases/download/1.0/DemoForest.zip",
   "changelog": "Fix: Players from Asia can now join multiplayer rooms.\nFix: Coins can now be collected by all players, not only the room host.\nFix: Resolved an issue where purple objects appeared in the distance.\nImprovement: Performance optimizations for faster and smoother gameplay."
 }
