@@ -1,5 +1,5 @@
 {
-  "version": "1.2",
+  "version": "1.2.1",
   "download_url": "https://github.com/NeriDavid1/EnglishKingdomGameProvider/releases/download/1.0/DemoForest.zip",
   "changelog": "[New] Added game settings.\n[IMP] Improved level appearance and visual design.\n[New] Motorbike multiplayer updated – players can now see each other.\n[New] Added outline highlight for interactable objects.\n[Fix] Players from Asia can now join multiplayer rooms.\n[Fix] Coins can now be collected by all players, not only the room host.\n[Fix] Resolved an issue where purple objects appeared in the distance.\n[IMP] Performance optimizations for faster and smoother gameplay."
 }
